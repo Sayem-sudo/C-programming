@@ -2,6 +2,7 @@
 int main()
 {
     int n;
+    // Using EOF Process
     while (scanf("%d", &n) != EOF)
     {
         if (n == 1999)
